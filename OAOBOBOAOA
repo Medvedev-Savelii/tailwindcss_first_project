@@ -1,0 +1,23 @@
+[33mcommit 0dc72855f43040d0cbd4bf3664a3b385098042a5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: sava <savamedvedev@gmail.com>
+Date:   Fri Oct 14 22:26:07 2022 +0800
+
+    four-commit
+
+[33mcommit 08e134769adb71af1aa7eef69b811dd322f19b15[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: sava <savamedvedev@gmail.com>
+Date:   Tue Oct 11 22:28:13 2022 +0800
+
+    therd-commit
+
+[33mcommit 4bf5385b5023907de76d3ead0bf200c7c5a52bcb[m
+Author: sava <savamedvedev@gmail.com>
+Date:   Tue Oct 11 21:50:50 2022 +0800
+
+    second-commit
+
+[33mcommit ff8d69d6e133fad2203cbae9ce678fab2bb16b41[m
+Author: sava <savamedvedev@gmail.com>
+Date:   Tue Oct 11 20:54:43 2022 +0800
+
+    first-commit
